@@ -11,7 +11,7 @@ This site was built using [GitHub Pages](https://pages.github.com/).
 
 **Programming allows me to create and innovate**
 > 
-> It gives me a chance to think outside the box 
+> Code is like humor. When you have to explain it, it’s bad. – Cory House
 > 
 
 
