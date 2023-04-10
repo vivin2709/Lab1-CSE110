@@ -27,7 +27,7 @@ git push
 
 I also learned how to VS Code UI. Which is super exciting for me as a budding programmer and also why VS Code is my favorite IDE. I started using it for CSE11. I also like using IntelliJ and was informed about its utility at my summer Internship. 
 
-This is the company I interned at: [https://www.radianmobility.com]
+This is the company I interned at was an AI based healthcare, feel free to check them out: [https://www.radianmobility.com]
 
 [You can find my response to all those people who think CS majors are free tech support here:](mem.jpeg)
 
