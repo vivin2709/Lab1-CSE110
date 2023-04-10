@@ -2,6 +2,13 @@
 
 This site was built using [GitHub Pages](https://pages.github.com/).
 
+**Hi guys this is me, I am Vivin a second year CS major trying to make the most of 110 and kickstart my journey**
+
+
+ ![Intro image](selfimage.png)
+
+
+
 **Programming allows me to create and innovate**
 > 
 > It gives me a chance to think outside the box 
@@ -35,9 +42,9 @@ My favourite things:
 * Squash 
 
 ## *In order of likeliness these are the places you are most likely to find me on campus:*
-- 1 Geisel 
-- 2 Rimac 
-- my room  
+1. Geisel 
+2. Rimac 
+3. my room  
 
 My aims for myself as a successful software engineer:
 - [ ] Understand the realities of working in a diverse team 
