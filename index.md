@@ -41,7 +41,7 @@ My favourite things:
 * Sailing 
 * Squash 
   
-[Music](rock.jpeg)  [Sailing](Sailing.jpg.webp)
+![Music](rock.jpeg)  ![Sailing](Sailing.jpg.webp)
 
 ## *In order of likeliness these are the places you are most likely to find me on campus:*
 1. Geisel 
