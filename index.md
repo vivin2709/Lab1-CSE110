@@ -2,12 +2,12 @@
 
 This site was built using [GitHub Pages](https://pages.github.com/).
 
-
-** Programming allows me to create and innovate **
+**Programming allows me to create and innovate**
+> 
 > It gives me a chance to think outside the box 
 > 
 
-  
+
 Today I reviewed the following git commands, I hope I keep learning more of these:
 
 ```
@@ -25,7 +25,8 @@ This is the company I interned at: [https://www.radianmobility.com]
 [You can find my response to all those people who think CS majors are free tech support here:](../mem.jpeg)
 
 
-More about me
+Although most of me was covered in the introduction section
+
 ## *Here is a little about me outside of coding:*
 
 My favourite things: 
