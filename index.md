@@ -5,7 +5,7 @@ This site was built using [GitHub Pages](https://pages.github.com/).
 **Hi guys this is me, I am Vivin a second year CS major trying to make the most of 110 and kickstart my journey**
 
 
- ![Intro image](self_image.png)
+ ![Intro image](self_image.JPG)
 
 
 
