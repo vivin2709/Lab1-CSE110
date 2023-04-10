@@ -29,7 +29,7 @@ I also learned how to VS Code UI. Which is super exciting for me as a budding pr
 
 This is the company I interned at: [https://www.radianmobility.com]
 
-[You can find my response to all those people who think CS majors are free tech support here:](../mem.jpeg)
+[You can find my response to all those people who think CS majors are free tech support here:](mem.jpeg)
 
 
 Although most of me was covered in the introduction section
